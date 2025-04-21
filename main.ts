@@ -5,7 +5,7 @@
  * generated for an **exported** function.
  */
 
-//% color="#AA278D" weight=100
+//% color="#AA278D" weight=100 icon="\uf14e"
 namespace Servo270 {
 
     /**
